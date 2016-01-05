@@ -1,0 +1,5 @@
+[
+    { "keys": ["alt+-"], "command": "jump_back" },
+    { "keys": ["alt+shift+-"], "command": "jump_forward" },
+    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"}
+]
